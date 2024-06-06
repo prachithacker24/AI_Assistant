@@ -1,0 +1,5 @@
+pywhatkit
+
+pywhatkit is a Python library that allows you to do various tasks such as
+sending WhatsApp messages, opening a YouTube video, performing a Google search,
+ getting information on a topic from Wikipedia, etc.,
